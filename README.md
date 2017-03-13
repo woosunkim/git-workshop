@@ -1,3 +1,3 @@
 # git-workshop
-git 
+git 연습
 
